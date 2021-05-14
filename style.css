@@ -1,0 +1,25 @@
+body{
+  padding: 0;
+  margin: 0;
+  background-color:#b2d1c9
+}
+
+.total{
+  margin: auto;
+  text-align: center;
+  width: 80%;
+  font-family: verdana;
+  font-size: 20px;
+}
+#guess{
+  padding: 10px 40px;
+  border-radius: 5px;
+}
+#sbt-btn,#newgame{
+  padding: 10px 30px;
+  border-radius: 5px;
+
+}
+#developer{
+ margin-top: 100px;
+}
